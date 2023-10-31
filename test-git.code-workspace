@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../test-git"
+		},
+		{
+			"path": "../test-git/.git"
+		}
+	],
+	"settings": {}
+}
